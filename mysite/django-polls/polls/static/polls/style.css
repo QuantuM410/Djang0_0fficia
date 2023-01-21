@@ -1,0 +1,9 @@
+li a {
+    color: rgb(67, 193, 197);
+}
+
+body {
+    background: white url("images/cat.jpg")  no-repeat;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
